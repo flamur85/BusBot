@@ -1,0 +1,24 @@
+#MESSENGER (must fill all out, even if repeat)
+MY_CONTACT_1=
+MY_CONTACT_2=
+OTHER_CONTACT_1=
+OTHER_CONTACT_2=
+
+#YAHOO EMAIL CLIENT (client key is not email password)
+EMAIL_CLIENTS_EMAIL_ADDRESS=
+EMAIL_CLIENTS_KEY=
+
+#WALMART (CCV is credit card 3 digit key)
+WALMART_LOGIN=
+WALMART_PASSWORD=
+WALMART_CCV=
+
+#BESTBUY (CCV is credit card 3 digit key)
+BESTBUT_LOGIN=
+BESTBUT_PASSWORD=
+BESTBUT_CCV=
+
+#TARGET (CCV is credit card 3 digit key)
+TARGET_LOGIN=
+TARGET_PASSWORD=
+TARGET_CCV=
